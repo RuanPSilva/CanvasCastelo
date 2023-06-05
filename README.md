@@ -1,7 +1,9 @@
 HTML
+
 No Html montei sua estrutura básica chamativa o Css e o Javascript e também o canvas
 
 CSS
+
 Eu adicionei cor ao corpo do site
 
 Javascript
